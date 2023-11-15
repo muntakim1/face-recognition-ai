@@ -1,0 +1,9 @@
+README.md
+setup.py
+src/face_recognition_ai/__init__.py
+src/face_recognition_ai/face_recognition.py
+src/face_recognition_ai.egg-info/PKG-INFO
+src/face_recognition_ai.egg-info/SOURCES.txt
+src/face_recognition_ai.egg-info/dependency_links.txt
+src/face_recognition_ai.egg-info/requires.txt
+src/face_recognition_ai.egg-info/top_level.txt

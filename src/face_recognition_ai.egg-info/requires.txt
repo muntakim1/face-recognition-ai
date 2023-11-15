@@ -1,0 +1,5 @@
+facenet-pytorch
+PyYaml
+joblib
+opencv-python
+yolo5face

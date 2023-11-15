@@ -1,3 +1,18 @@
+Metadata-Version: 2.1
+Name: face-recognition-ai
+Version: 0.0.1
+Summary: A face recognition system using yoloface and facenet
+Home-page: https://github.com/muntakim1/face-recognition-ai
+Author: Muntakimur Rahaman
+Author-email: muntakim.cse@gmail.com
+License: MIT
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Topic :: Scientific/Engineering :: Image Recognition
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+
 # Face-Recognition-AI
 
 [![GitHub stars](https://img.shields.io/github/stars/muntakim1/face-recognition-ai)](https://github.com/muntakim1/face-recognition-ai/stargazers)

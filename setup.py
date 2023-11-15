@@ -12,7 +12,7 @@ setup(
     packages=find_packages(where="src"),
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="",
+    url="https://github.com/muntakim1/face-recognition-ai",
     author="Muntakimur Rahaman",
     author_email="muntakim.cse@gmail.com",
     license="MIT",
@@ -22,7 +22,13 @@ setup(
         "Topic :: Scientific/Engineering :: Image Recognition",
         "Topic :: Scientific/Engineering :: Artificial Intelligence",
     ],
-    install_requires=["facenet-pytorch", "yolo5face"],
+    install_requires=[
+        "facenet-pytorch",
+        "PyYaml",
+        "joblib",
+        "opencv-python",
+        "yolo5face",
+    ],
     extra_require={"dev": ["twine"]},
     python_requires=">=3.10",
 )
