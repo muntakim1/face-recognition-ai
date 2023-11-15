@@ -1,9 +1,9 @@
 # Face-Recognition-AI
 
-[![GitHub stars](https://img.shields.io/github/stars/your-username/your-repository)](https://github.com/your-username/your-repository/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/your-username/your-repository)](https://github.com/your-username/your-repository/issues)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/your-repository)](https://github.com/your-username/your-repository/network)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/your-repository)](https://github.com/your-username/your-repository/network)
+[![GitHub stars](https://img.shields.io/github/stars/muntakim1/face-recognition-ai)](https://github.com/muntakim1/face-recognition-ai/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/muntakim1/face-recognition-ai)](https://github.com/muntakim1/face-recognition-ai/issues)
+[![GitHub forks](https://img.shields.io/github/forks/muntakim1/face-recognition-ai)](https://github.com/muntakim1/face-recognition-ai/network)
+[![GitHub forks](https://img.shields.io/github/forks/muntakim1/face-recognition-ai)](https://github.com/muntakim1/face-recognition-ai/network)
 [![Python 3.10](https://img.shields.io/badge/python-3.10-brightgreen)](https://python.org)
 
 Welcome to Face-Recognition-AI, an advanced face recognition system built with cutting-edge technologies, including FaceNet and YOLO5Face. This project draws inspiration from the popular face-recognition module, aiming to provide users with a professional and efficient solution for face recognition.
